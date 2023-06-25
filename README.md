@@ -2,6 +2,8 @@
 
 **Name:** Big Red Bounty
 
+**Developed By:** Andrew Cheung, Isaac Han, Oscar Wang, Andrew Zhang, Benson Yee
+
 **Tagline:** an app that allows users to make posts of lost items and offer rewards for users who find them
 
 **Screenshots:**
